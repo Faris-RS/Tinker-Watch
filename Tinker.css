@@ -1,0 +1,248 @@
+.header{
+    background-color: white;
+    height: 50px;
+    margin-top: 2%;
+    margin-left: 6%;
+}
+.cart{
+    float: right;
+    padding-right: 1%;
+}
+.menu{
+    float: right;
+    padding-right: 6%;
+    padding-top: 4px;
+}
+
+body{
+    font-family: "Canela", Times, "Times New Roman", serif;
+}
+
+.photo1{
+    width: 90%;
+    height: 800px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/BFWC002_1479ba6d-2110-4f6e-b314-b1f6291dbaa4_1920x.jpg?v=1614333068");
+    background-size: cover;
+    color: white;
+    margin-left: 100px;
+}
+.text1{
+    font-family: Canela, Times, "Times New Roman", serif;
+    font: Canela;
+    padding-top: 20%;
+    padding-left: 10%;
+    font-size: 30px;
+}
+.para1{
+    font-size: 16px;
+    padding-left: 10%;
+}
+.button1{
+    padding-left: 10%;
+    padding-top: 2%;
+}
+
+.photo2{
+    width: 40%;
+    height: 1279px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/BFW004_e31e4714-b87e-4ba1-b1ed-a29cdbc18f3b_1200x.jpg?v=1614332890");
+    background-size: cover;
+    margin-left: 100px;
+    color: white;
+    float: left;
+    margin-bottom: 40px;
+    margin-top: 50px;
+}
+.text2{
+    padding-top: 1200px;
+    padding-left: 4%;
+    font-size: 20px;
+}
+
+.photo3{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/strap1_copy_900x.jpg?v=1613793688");
+    float: right;
+    height: 400px;
+    width: 40%;
+    margin-right: 89px;
+    color: white;
+    background-size: cover;
+    margin-top: 50px;
+}
+.text3{
+    padding-top: 45%;
+    padding-left: 4%;
+    font-size: 20px;
+}
+
+.photo4{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/2018_05_21_Tinker16259_900x.jpg?v=1613794010");
+    float: right;
+    height: 400px;
+    width: 40%;
+    margin-right: 89px;
+    margin-top: 2%;
+    color: white;
+    background-size: cover;
+}
+.text4{
+    padding-top: 45%;
+    padding-left: 4%;
+    font-size: 20px;
+}
+
+.photo5{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/Card_sq6_900x.jpg?v=1613645150");
+    float: right;
+    height: 400px;
+    width: 40%;
+    margin-right: 89px;
+    margin-top: 2%;
+    color: white;
+    background-size: cover
+}
+.text5{
+    padding-top: 45%;
+    padding-left: 4%;
+    font-size: 20px;
+}
+
+.photo6{
+    background-color: white;
+    height: 1300px;
+}
+
+.photo7{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/FUPM004a_2800x.jpg?v=1614321463");
+    background-size: cover;
+    height: 800px;
+    margin-top: 50px;
+
+}
+.text7{
+    color: white;
+    padding-top: 20%;
+    padding-left: 5%;
+    font-size: 40px;
+}
+
+.text8{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 2%;
+}
+.ft1{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/press_gq_600x_600x_b78425c3-69da-4964-bd97-0b36e16c72c7_600x.jpg?v=1613603164");
+    float: left;
+    background-size: 100px 50px;
+    height: 50px;
+    width: 100px;
+    margin-left: 200px;
+    cursor: pointer;
+}
+.ft2{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/press_designmilk_600x_600x_1e3690f4-ba20-46e7-b1b9-72f72f8ca38a_600x.jpg?v=1613603164");
+    float: left;
+    background-size: 100px 50px;
+    height: 50px;
+    width: 100px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.ft3{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/press_living_600x_600x_fdce95c8-1b5f-47ee-aa07-1cb8f96dcb0d_600x.jpg?v=1613603164");
+    float: left;
+    background-size: 130px 50px;
+    height: 50px;
+    width: 130px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.ft4{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/press_laliving_600x_600x_04b012d1-2142-4300-abe0-2135f6e660ac_600x.jpg?v=1613603164");
+    float: left;
+    background-size: 50px 50px;
+    height: 50px;
+    width: 50px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.ft5{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/press_dieline_600x_600x_8d262fb6-0196-4ea7-a43b-27c086df8bbc_600x.jpg?v=1613603164");
+    float: left;
+    background-size: 180px 50px;
+    height: 50px;
+    width: 180px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+.ft6{
+    background-image: url("https://cdn.shopify.com/s/files/1/0877/8598/files/press_highsnobriety_600x_600x_bd09c535-a9b6-4eda-8c5a-714b1daa21a4_600x.jpg?v=1613603164");
+    float: left;
+    background-size: 200px 50px;
+    height: 50px;
+    width: 200px;
+    margin-left: 140px;
+    cursor: pointer;
+}
+
+.thanks{
+    color: black;
+    font-size: 40px;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.newsletter{
+    padding-left: 100px;
+    padding-top: 30px;
+    font-size: 20px;
+    color: darkslategrey;
+}
+.mail{
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 100px;
+    color: darkslategray;
+}
+.signup{
+    margin-left: 100px;
+    float: left;
+    padding-top: 1%;
+    background-color: rgba(233, 233, 233, 0.959);
+    padding-bottom: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+.misc{
+    background-color: rgb(247, 247, 247);
+    height: 300px;
+    font-family: "GT America", "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: lighter;
+    text-decoration: none;
+}
+.logo{
+    background-image: url("//cdn.shopify.com/s/files/1/0877/8598/t/133/assets/logo-seal.svg?v=50691183320546548251591809731");
+    background-size: cover;
+    margin-left: 140px;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 30%;
+    float: left;
+}
+.shop1{
+    float: left;
+    color: gray;
+    padding-left: 10%;
+    padding-top: 40px;
+    font-size: 14px;
+}
+.shop2{
+    float: left;
+    color: gray;
+    padding-left: 10%;
+    padding-top: 40px;
+}
